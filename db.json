@@ -1,0 +1,8 @@
+{
+  "address": [
+    {
+      "url": "https://app.kilid1.ir//api_post.php",
+      "get_url": "https://app.kilid1.ir/api_get.php"
+    }
+  ]
+}
